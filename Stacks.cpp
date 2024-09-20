@@ -1,5 +1,5 @@
 #include <iostream>
-
+//Stack is a data structrue that works on phenomena of LIFO last input first output
 using namespace std;
 
 class Stack {
